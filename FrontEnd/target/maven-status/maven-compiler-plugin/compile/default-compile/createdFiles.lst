@@ -1,0 +1,8 @@
+com\niit\controller\admin\AdminProduct.class
+com\niit\controller\admin\AdminHome.class
+com\niit\controller\HomeController.class
+com\niit\controller\ProductController.class
+com\niit\controller\CartResources.class
+com\niit\controller\CartController.class
+com\niit\controller\OrderController.class
+com\niit\controller\RegisterController.class
